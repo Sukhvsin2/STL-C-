@@ -1,6 +1,6 @@
 /**
  * @file vector.cpp
- * @author Sukhvinder Singh (sukhvsingh.me)
+ * @author Sukhvinder Singh (https://www.sukhvsin2.me/)
  * @brief Vector is a dynamic array which double it's size 
  * when the size is at max and insert your data.
  * How it works?

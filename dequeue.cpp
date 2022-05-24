@@ -1,6 +1,6 @@
 /**
  * @file dequeue.cpp
- * @author your name (you@domain.com)
+ * @author Sukhvinder Singh (https://www.sukhvsin2.me/)
  * @brief 
  * @version 0.1
  * @date 2022-05-23
